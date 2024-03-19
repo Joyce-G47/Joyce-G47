@@ -7,7 +7,7 @@ Hi 👋, thank you for visiting my GitHub profile. I work as a dedicated softwar
 
 **About Me:**
 
-I'm currently diving deep into the world of software development as an intern at ABSA Software Developer at UVU. It's been a solid 8 months since I joined this journey. Prior to this, I earned my stripes with a  honours degree in Business Administration from MANCOSA and also an AWS Cloud Practitioner Certificate.
+I'm currently diving deep into the world of software development as an intern at ABSA Software Developer at UVU Africa. It's been a solid 8 months since I joined this journey. Prior to this, I earned my stripes with a  honours degree in Business Administration from MANCOSA and also an AWS Cloud Practitioner Certificate.
 
 
 
