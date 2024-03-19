@@ -68,7 +68,7 @@ AWS
 
 Here are some highlights of the projects I've worked on:
 
-Personal Portfolio using React: https://react-potfolio-50435.web.app
+Personal Portfolio using React: https://react-portfolio-50435.web.app
 
 
 Designed and developed a sleek and responsive personal portfolio website using React.js.
