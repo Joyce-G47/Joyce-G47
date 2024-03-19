@@ -20,18 +20,27 @@ I've got some impressive certifications to back me up, including A+ and N+, and 
 
 
 Javascript
+
 Java
+
 Python
+
 
 **Frontend Development:**
 
 
 HTML
+
 CSS
+
 SASS
+
 Tailwind
+
 Bootstrap
+
 React
+
 
 **Backend Development:**
 
