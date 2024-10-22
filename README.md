@@ -97,7 +97,7 @@ Financial Calculator:
 Created a comprehensive financial calculator application to assist users with various financial calculations.
 Developed functionalities for calculating homeloan payments and investment returns
 
-Bed & Breakfast (B&B) Website:
+Bed & Breakfast (B&B) Website: https://hlalanathi.netlify.app
 
 
 Led the development of a professional and user-friendly website for a bed and breakfast establishment.
